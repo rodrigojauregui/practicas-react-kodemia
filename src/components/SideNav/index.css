@@ -1,0 +1,10 @@
+
+.menu-icons{
+    margin-left: 6rem
+    
+}
+.menu-icons li:hover{
+    background-color: rgb(225 228 229);
+    cursor: pointer;
+    
+}

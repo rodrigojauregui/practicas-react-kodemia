@@ -1,0 +1,14 @@
+
+.appThemeToggle{
+    margin-left: 1rem;
+    padding: 0.5rem 0.75rem;
+    background: gray;
+    border-radius: 0.75rem;
+}
+.appThemeToggle.light::after{
+    content: "🐣";
+}
+
+.appThemeToggle.dark::after{
+    content: "☠️";
+}

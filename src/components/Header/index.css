@@ -1,0 +1,49 @@
+
+.menunav{
+    height: 56px;
+    box-shadow: 0 1px 1px -1px #333;
+    align-self: flex-start;
+    width: 100vw;  
+    background: var(--header-background);
+    overflow: hidden;
+
+}
+.log-in{
+    font-size: 1rem;
+    color: #3E49D7;
+    margin-left: 35rem;
+    text-align:justify;
+    padding-top: 8px;
+}
+
+.site-logo{
+    width: 54px;
+    height: 40px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    background-image: url("https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png");
+    background-position: center;
+    background-size: cover;
+    margin-left: 7rem;
+}
+
+.search{
+    width: 385px; 
+    height:40px; 
+    background-color:#fafafa; 
+    border-radius: 5px; 
+    border: #B6BDC3 solid 1px;
+}
+
+.boton{
+    background-color: var(--button-primary);
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    margin-left: 15px;
+    font-weight: bold;
+
+    
+}
